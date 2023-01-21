@@ -34,7 +34,7 @@
   (pad "4" thru_hole circle (at 3.735 -0.071) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp 990a539a-5f6b-4ccb-815f-643fa98baf85))
   (pad "5" thru_hole circle (at 6.805 2.639) (size 3 3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 83bed99d-c9be-46b5-9262-a695b8b22164))
   (pad "5" thru_hole circle (at -6.335 2.639 180) (size 3 3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 91a449b7-ebc4-4a1f-9fc4-e1eb5249f452))
-  (model "C:/Users/felip/Downloads/614004135023 (rev1).stp"
+  (model "${KIPRJMOD}/Library.pretty/3d/614004135023 (rev1).stp"
     (offset (xyz 0 -1.25 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))

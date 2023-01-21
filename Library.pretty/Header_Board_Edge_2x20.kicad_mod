@@ -82,7 +82,7 @@
   (pad "38" smd rect (at 0 21.59) (size 4.115 1) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b61b3c94-4402-4586-b122-ebde5d46e5d9))
   (pad "39" smd rect (at 0 24.134) (size 4.115 1.008) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ebbd3eeb-a514-4ee0-8334-e72b6f64ad5d))
   (pad "40" smd rect (at 0 24.126) (size 4.115 1.008) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 390e9912-2dc7-4264-84c9-985cd367afde))
-  (model "C:/Users/felip/Downloads/61304021121 (rev1).stp"
+  (model "${KIPRJMOD}/Library.pretty/3d/61304021121 (rev1).stp"
     (offset (xyz 3 0 0.42))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
